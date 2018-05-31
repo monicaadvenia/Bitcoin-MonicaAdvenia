@@ -1,0 +1,21 @@
+img {
+  width: 25%;
+  position: relative;
+  top: 50px;
+}
+
+.tabmenu{
+  position: relative;
+  top: 100px;
+  width: 500px;
+}
+
+.judultab{
+  margin-top: 20px;
+}
+
+table{
+  margin-top: 20px;
+  width: 500px;
+  text-align: center;
+}
